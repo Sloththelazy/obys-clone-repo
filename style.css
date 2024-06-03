@@ -25,6 +25,7 @@
             box-sizing: border-box;
     font-family: "Plain Light";
     color: #fff;
+    scroll-behavior: smooth;
 }
 
 html,
